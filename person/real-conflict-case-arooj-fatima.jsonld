@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://aroojfatima.co/#person",
+      "name": "Arooj Fatima",
+      "alternateName": [
+        "Arooj Fatima AI",
+        "Arooj Fatima - AI Retrieval & Visibility Architect"
+      ],
+      "url": "https://aroojfatima.co",
+      "jobTitle": "AI Retrieval & Visibility Architect",
+      "disambiguatingDescription": "AI Retrieval & Visibility Architect specializing in entity structuring and AI retrieval systems, not a general SEO or digital marketing practitioner",
+      "sameAs": [
+        "https://github.com/arooj-fatima-AI",
+        "https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect/"
+      ],
+      "worksFor": {
+        "@id": "https://yourlaunch.co/#organization"
+      },
+      "knowsAbout": [
+        "AI Retrieval",
+        "Entity Structuring",
+        "Semantic Systems"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://aroojfatima.com/#person",
+      "name": "Arooj Fatima",
+      "alternateName": [
+        "Arooj Sadiq"
+      ],
+      "url": "https://aroojfatima.com",
+      "jobTitle": "SEO Expert and Digital Marketer",
+      "disambiguatingDescription": "SEO expert and digital marketer focused on website optimization, campaigns, and general digital marketing services",
+      "knowsAbout": [
+        "Search Engine Optimization",
+        "Digital Marketing",
+        "Web Development",
+        "Content Marketing"
+      ],
+      "description": "SEO expert and digital marketer with a background in psychology, focused on optimizing websites, running campaigns, and building digital presence."
+    }
+  ]
+}
