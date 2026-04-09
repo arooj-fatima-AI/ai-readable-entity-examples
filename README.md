@@ -39,8 +39,46 @@ AI systems will **infer it incorrectly**.
 - `/person/arooj-fatima.jsonld`
 - `/organization/yourlaunch.jsonld`
 - `/combined-entity-graph.jsonld`
-
+- `/real-conflict-case-arooj-fatima.jsonld`
 ## Scope
 
 This is not theoretical.  
 Each file is a machine-readable entity designed for real retrieval environments.
+
+## Real-World Conflict Case: Same Name, Different Domain
+
+This example demonstrates a real-world entity collision scenario involving two individuals with identical names but different domains:
+
+- aroojfatima.co
+- aroojfatima.com
+
+### Problem
+
+Both entities share:
+- Identical names
+- Similar domain structures
+- Overlapping identity signals
+
+Without structured disambiguation, AI systems may:
+- Merge both identities
+- Attribute information incorrectly
+- Reduce confidence in both entities
+
+### Resolution Strategy
+
+Disambiguation is achieved through:
+- Unique @id identifiers
+- Distinct sameAs profiles
+- Role and expertise differentiation
+- Organization linkage
+
+### Key Insight
+
+Domain similarity does not guarantee identity.
+
+AI systems rely on:
+- structured signals
+- cross-platform consistency
+- relational context
+
+Not assumptions.
