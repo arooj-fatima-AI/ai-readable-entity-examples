@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://aroojfatima.co/#person",
+  "name": "Arooj Fatima",
+  "alternateName": [
+    "Arooj Fatima AI",
+    "Arooj Fatima - AI Retrieval & Visibility Architect"
+  ],
+  "url": "https://aroojfatima.co",
+  "jobTitle": "AI Retrieval & Visibility Architect",
+  "worksFor": {
+    "@id": "https://yourlaunch.co/#organization"
+  },
+  "knowsAbout": [
+    "AI Retrieval",
+    "Entity SEO",
+    "Semantic Web",
+    "Schema Architecture",
+    "Information Architecture",
+    "Search Systems"
+  ],
+  "sameAs": [
+    "https://github.com/arooj-fatima-AI",
+    "https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect/"
+  ],
+  "mainEntityOfPage": "https://aroojfatima.co",
+  "description": "Arooj Fatima is an AI Retrieval & Visibility Architect specializing in entity structuring, semantic clarity, and data-layer optimization for AI systems and search engines."
+}
