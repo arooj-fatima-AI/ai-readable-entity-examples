@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://yourlaunch.co/#organization",
+  "name": "Your Launch",
+  "url": "https://yourlaunch.co",
+  "description": "Your Launch is a web design and development company focused on building high-performance, AI-readable digital systems that enhance brand visibility and retrieval across search engines and AI platforms.",
+  "founder": {
+    "@id": "https://aroojfatima.co/#person"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/your-launch"
+  ],
+  "areaServed": "Global"
+}
